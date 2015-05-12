@@ -42,10 +42,10 @@ FONTS
 }
 
 .icon-icon-about:before {
-  content: "a";
+  content: "f";
 }
 .icon-icon-choice:before {
-  content: "b";
+  content: "g";
 }
 .icon-icon-contact:before {
   content: "h";
